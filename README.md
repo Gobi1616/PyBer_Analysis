@@ -26,4 +26,4 @@ Summary of the Riding according to the Pyber Rides Summary results, this seems l
 ![Fig7](https://user-images.githubusercontent.com/82549869/119392484-cec77e80-bc9d-11eb-9d69-6b17d1d7f4e2.png)
 
 As shown in the Figure 1 line graph, both pie bars show Urban city form, which has the most city drivers and riders and is consistent in price and trend. Urban areas have many more drivers, likely accounted for having more bus lines or longer daily coverage.
-Cumulative Fares display anticipated interruptions, not even in the same way that Total Rides do. Rural areas generate approximately $4 more per trip than Suburban areas, which generate approximately $6 more than Urban areas. Longer distances in rural areas can account for this, with each ride costing more.
+Cumulative Fares display anticipated interruptions, not even in the same way that Total Rides do. Rural areas generate more per trip than Suburban areas, which generate more than Urban areas. Longer distances in rural areas can account for this, with each ride costing more.
