@@ -22,13 +22,9 @@ Despite the fact that the fares never cross, the Urban fares start at an average
 
 Summary of the Riding according to the Pyber Rides Summary results, this seems like what most people are expecting. Total Rides: There are three times as many rides in urban areas as there are in suburban areas, which are four times as many as there are in rural areas. Total Drivers: Drivers in urban areas are significantly higher, owing to the presence of more bus lines and regular coverage.
 
-![Fig6](https://user-images.githubusercontent.com/82549869/119392468-ca02ca80-bc9d-11eb-8dfd-0436b0bc9145.png)
+![Fig6](https://user-images.githubusercontent.com/82549869/119392468-ca02ca80-bc9d-11eb-8dfd-0436b0bc9145.png)  ![Fig7](https://user-images.githubusercontent.com/82549869/119392484-cec77e80-bc9d-11eb-9d69-6b17d1d7f4e2.png)
 
-Fig.3 Percent Total Riders by City Type
-
-![Fig7](https://user-images.githubusercontent.com/82549869/119392484-cec77e80-bc9d-11eb-9d69-6b17d1d7f4e2.png)
-
-Fig.7 Percent of Total Drivers by City Type
+                  Fig.3 Percent Total Riders by City Type                 Fig.7 Percent of Total Drivers by City Type
 
 As shown in the Figure 1 line graph, both pie bars show Urban city form, which has the most city drivers and riders and is consistent in price and trend. Urban areas have many more drivers, likely accounted for having more bus lines or longer daily coverage.
 Cumulative Fares display anticipated interruptions, not even in the same way that Total Rides do. Rural areas generate approximately $4 more per trip than Suburban areas, which generate approximately $6 more than Urban areas. Longer distances in rural areas can account for this, with each ride costing more.
