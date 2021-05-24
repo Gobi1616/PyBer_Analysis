@@ -4,7 +4,7 @@
 
 This repository provides a python pandas method for analysing the ride-sharing data by city type. Further, utilizing Pandas and Matplotlib, a multiple-line graph depicting total weekly fares for each city form is developed. Both datasets were downloaded, combined, and the aggregate data was displayed in python pandas dataframes for these analyses. Finally, a published paper summarising how the data varies by city form and how PyBer decision-makers should use these variations.
 
-## Overview of the analysis: Explain the purpose of the new analysis.
+## Overview of the analysis:
 
 PyBer Challenge (PyBer) Overview of the Research: Describe what the latest research is about. The aim of this written report is to compile a DataFrame that summarises ride-sharing data by city form. This report will also include multiple-line graphs of total weekly fares for every city category, created with the Pandas and Matplotlib libraries.
 
@@ -30,4 +30,5 @@ Fig.3 Percent Total Riders by City Type
 
 Fig.7 Percent of Total Drivers by City Type
 
-As shown in the Figure 1 line graph, both pie bars show Urban city form, which has the most city drivers and riders and is consistent in price and trend.
+As shown in the Figure 1 line graph, both pie bars show Urban city form, which has the most city drivers and riders and is consistent in price and trend. Urban areas have many more drivers, likely accounted for having more bus lines or longer daily coverage.
+Cumulative Fares display anticipated interruptions, not even in the same way that Total Rides do. Rural areas generate approximately $4 more per trip than Suburban areas, which generate approximately $6 more than Urban areas. Longer distances in rural areas can account for this, with each ride costing more.
